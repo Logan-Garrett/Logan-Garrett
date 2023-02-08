@@ -45,20 +45,15 @@
       <code><img title="ReactJS" height="35" src="./icons/react.svg"></code>
       <code><img title="Python" height="35" src="./icons/python.svg"></code>
       <code><img title="NodeJS" height="35" src="./icons/node_js.svg"></code>
-      <code><img title="VB.NET" height="35" src="./icons/vb_net.png"></code>
      </p>
      <p align="center">
       <code><img title="CSS" height="35" src="./icons/css.svg"></code>
       <code><img title="BootStrap" height="35" src="./icons/bootstrap.svg"></code>
-      <code><img title="jQuery" height="35" src="./icons/jquery.svg"></code>
       <code><img title="SQL Server" height="35" src="./icons/sql.svg"></code>
       <code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
       <code><img title="Git" height="35" src="./icons/git.svg"></code>
-      <code><img title="Google Cloud Platform" height="35" src="./icons/gcp.svg"></code>
       <code><img title="Microsoft Azure DevOps" height="35" src="./icons/azure-devops.svg"></code>
       <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
-      <code><img title="Unity" height="35" src="./icons/unity.svg"></code>
-      <code><img title="OpenID" height="35" src="./icons/openid.svg"></code>
     </p>
   </div>
   ---

@@ -22,7 +22,7 @@
 
   ### 🫔: About Me : I am a AppDev Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kentucky.
   
-  :telescope: I’m working as a AppDev Intern and contributing to frontend and backend for building applications.
+  🪤: I’m working as a AppDev Intern and contributing to frontend and backend for building applications.
 
   :zap: In my free time, I work on personal projects and watch AI and Data Mining videos.
 

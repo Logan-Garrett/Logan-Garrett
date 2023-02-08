@@ -33,21 +33,33 @@
 
   ### :hammer_and_wrench: Languages and Tools :
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
+     <p align="center">
+      </br>
+      <code><img title="C Programming" height="35" src="./icons/c.svg"></code>
+      <code><img title="C++ Programming" height="35" src="./icons/c++.svg"></code>
+      <code><img title="C# Programming" height="35" src="./icons/c_sharp.svg"></code>
+      <code><img title=".NET Framework" height="35" src="./icons/.net.svg"></code>
+      <code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
+      <code><img title="TypeScript" height="35" src="./icons/ts.svg"></code>
+      <code><img title="ReactJS" height="35" src="./icons/react.svg"></code>
+      <code><img title="Python" height="35" src="./icons/python.svg"></code>
+      <code><img title="NodeJS" height="35" src="./icons/node_js.svg"></code>
+      <code><img title="VB.NET" height="35" src="./icons/vb_net.png"></code>
+     </p>
+     <p align="center">
+      <code><img title="CSS" height="35" src="./icons/css.svg"></code>
+      <code><img title="BootStrap" height="35" src="./icons/bootstrap.svg"></code>
+      <code><img title="jQuery" height="35" src="./icons/jquery.svg"></code>
+      <code><img title="SQL Server" height="35" src="./icons/sql.svg"></code>
+      <code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
+      <code><img title="Git" height="35" src="./icons/git.svg"></code>
+      <code><img title="Google Cloud Platform" height="35" src="./icons/gcp.svg"></code>
+      <code><img title="Microsoft Azure DevOps" height="35" src="./icons/azure-devops.svg"></code>
+      <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
+      <code><img title="Unity" height="35" src="./icons/unity.svg"></code>
+      <code><img title="OpenID" height="35" src="./icons/openid.svg"></code>
+    </p>
   </div>
   ---
   

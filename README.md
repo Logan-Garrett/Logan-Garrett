@@ -58,8 +58,11 @@
   </div>
   ---
   
-  ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NineTailSecurity&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NineTailSecurity&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ### 🫀: Github View :
+  <p align="center">
+    <img src="https://readme-stats-cwvn.vercel.app/api?username=NineTailSecurity&custom_title=NineTailSecurity+-+Logan+Garrett&border_color=53F6F7&show_icons=true&count_private=true&theme=react">
+  </p>
+  <p align="center">
+    <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=NineTailSecurity&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=react&border_color=53F6F7"/>
+  </p>
 </div>

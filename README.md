@@ -40,6 +40,7 @@
       <code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
       <code><img title="TypeScript" height="35" src="./icons/ts.svg"></code>
       <code><img title="ReactJS" height="35" src="./icons/react.svg"></code>
+      <code><img title="Angular" height="35" src="./icons/angular.svg"></code>
       <code><img title="Python" height="35" src="./icons/python.svg"></code>
       <code><img title="NodeJS" height="35" src="./icons/node_js.svg"></code>
      </p>
@@ -51,7 +52,6 @@
       <code><img title="Git" height="35" src="./icons/git.svg"></code>
       <code><img title="Microsoft Azure DevOps" height="35" src="./icons/azure-devops.svg"></code>
       <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
-      <code><img title="Angular" height="35" src="./icons/angular.svg"></code>
     </p>
   </div>
   ---

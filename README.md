@@ -13,27 +13,26 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=NineTailSecurity&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Welcome! 
+    <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" width="30px"/>
   </h1>
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    <br />
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
   </div>
-  ---
 
   ### 🫔: About Me : I am a AppDev Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kentucky.
-  - :telescope: I’m working as a AppDev Intern and contributing to frontend and backend for building applications.
+  :telescope: I’m working as a AppDev Intern and contributing to frontend and backend for building applications.
 
-  - :seedling: Exploring Technical Content Writing.
+  :seedling: Exploring Technical Content Writing.
 
-  - :zap: In my free time, I work on personal projects and watch LTT.
+  :zap: In my free time, I work on personal projects and watch LTT.
 
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Logan-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/logan-garrett-43a68a220/))
+  :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Logan-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/logan-garrett-43a68a220/))
   ---
-
-  ### :hammer_and_wrench: Languages and Tools :
+  
   <div>
-   <h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
+   <h1 align="center"> Languages | Frameworks | Tools </h1>
      <p align="center">
       </br>
       <code><img title="C Programming" height="35" src="./icons/c.svg"></code>

@@ -21,11 +21,10 @@
   </div>
 
   ### 🫔: About Me : I am a AppDev Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kentucky.
+  
   :telescope: I’m working as a AppDev Intern and contributing to frontend and backend for building applications.
 
-  :seedling: Exploring Technical Content Writing.
-
-  :zap: In my free time, I work on personal projects and watch LTT.
+  :zap: In my free time, I work on personal projects and watch AI and Data Mining videos.
 
   :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Logan-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/logan-garrett-43a68a220/))
   ---
@@ -52,6 +51,7 @@
       <code><img title="Git" height="35" src="./icons/git.svg"></code>
       <code><img title="Microsoft Azure DevOps" height="35" src="./icons/azure-devops.svg"></code>
       <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
+      <code><img title="Angular" height="35" src="./icons/angular.svg"></code>
     </p>
   </div>
   ---

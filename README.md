@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
   </div>
 
-  ### 🫔: About Me : Coding Wizard <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kentucky.
+  ### 🫔: About Me - Coding Wizard <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
   🪤: Currently an AppDev Intern.
 

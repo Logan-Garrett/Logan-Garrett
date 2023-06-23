@@ -20,11 +20,11 @@
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
   </div>
 
-  ### 🫔: About Me : I am a AppDev Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kentucky.
+  ### 🫔: About Me : Coding Wizard <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kentucky.
   
-  🪤: I’m working as a AppDev Intern and contributing to frontend and backend for building applications.
+  🪤: Currently an AppDev Intern.
 
-  :zap: In my free time, I work on personal projects and watch AI and Data Mining videos.
+  :zap: In my free time, I work on personal projects and watch ThePrimeAgen and Theo.
 
   :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Logan-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/logan-garrett-43a68a220/))
   ---

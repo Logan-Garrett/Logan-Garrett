@@ -51,6 +51,7 @@
       <code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
       <code><img title="Git" height="35" src="./icons/git.svg"></code>
       <code><img title="Vim" height="35" src="./icons/vim.svg"></code>
+      <code><img title="Powershell" height="35" src="./icons/powershell.svg"></code>
       <code><img title="Microsoft Azure DevOps" height="35" src="./icons/azure-devops.svg"></code>
       <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
     </p>

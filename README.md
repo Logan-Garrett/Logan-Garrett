@@ -53,7 +53,6 @@
       <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
     </p>
   </div>
-  ---
   
   ### Github View
   <p align="center">

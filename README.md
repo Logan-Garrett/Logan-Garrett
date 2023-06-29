@@ -19,7 +19,7 @@
 
   ### About Me - Coding Wizard <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
-  Currently an AppDev Intern.
+  Currently an Application Developer Intern.
 
   :zap: In my free time, I work on personal projects and watch ThePrimeAgen and Theo.
 

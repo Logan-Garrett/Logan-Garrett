@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=NineTailSecurity&style=flat-square&color=blue" alt=""/>
   <h1>
-    Welcome to my page!
+    Welcome to my Github page!
   </h1>
   <div align="center">
     <br />

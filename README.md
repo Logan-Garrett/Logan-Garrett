@@ -25,6 +25,8 @@
 
   :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Logan-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/logan-garrett-43a68a220/))
   ---
+
+  ### Current Interest
   
   <div>
    <h1 align="center"> Languages | Frameworks | Tools </h1>

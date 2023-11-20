@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/logan-garrett-43a68a220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <a href="https://www.linkedin.com/in/logan-garrett-43a68a220">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
     </a>
     <a href="your-twitter-URL">

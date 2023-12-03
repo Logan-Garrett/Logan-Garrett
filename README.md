@@ -19,17 +19,14 @@
 
   ### About Me - Coding Wizard <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-  :zap: In my free time, I work on personal projects and watch ThePrimeAgen and Theo. I also code Linux Modules.
-
-  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Logan-blue?style=flat&logo=Linkedin&logoColor=white)]([(https://www.linkedin.com/in/logan-garrett-43a68a220/)])
+  :zap: In my free time, I work on personal projects and watch ThePrimeAgen and Theo. 
+  
   ---
-
-  ### Current Interest
   
   <div>
    <h1 align="center"> Languages | Frameworks | Tools </h1>
+    <br />
      <p align="center">
-      </br>
       <code><img title="C Programming" height="35" src="./icons/c.svg"></code>
       <code><img title="C++ Programming" height="35" src="./icons/c++.svg"></code>
       <code><img title="C# Programming" height="35" src="./icons/c_sharp.svg"></code>
@@ -40,7 +37,6 @@
       <code><img title="Angular" height="35" src="./icons/angular.svg"></code>
       <code><img title="Python" height="35" src="./icons/python.svg"></code>
       <code><img title="NodeJS" height="35" src="./icons/node_js.svg"></code>
-     </p>
      <p align="center">
       <code><img title="CSS" height="35" src="./icons/css.svg"></code>
       <code><img title="BootStrap" height="35" src="./icons/bootstrap.svg"></code>

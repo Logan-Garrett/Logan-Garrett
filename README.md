@@ -21,7 +21,7 @@
 
   :zap: In my free time, I work on personal projects and watch ThePrimeAgen and Theo. I also code Linux Modules.
 
-  :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Logan-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/logan-garrett-43a68a220/))
+  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Logan-blue?style=flat&logo=Linkedin&logoColor=white)]([(https://www.linkedin.com/in/logan-garrett-43a68a220/)])
   ---
 
   ### Current Interest

@@ -50,7 +50,7 @@
     </p>
   </div>
   
-  ### Github Stats
+  ### My Github Stats
   -----------------
   <p align="center">
     <img src="https://readme-stats-cwvn.vercel.app/api?username=NineTailSecurity&custom_title=NineTailSecurity+-+Logan+Garrett&border_color=53F6F7&show_icons=true&count_private=true&theme=react">

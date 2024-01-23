@@ -4,9 +4,6 @@
     <a href="https://www.linkedin.com/in/logan-garrett-43a68a220">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="100"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=NineTailSecurity&style=flat-square&color=blue" alt=""/>
   <h1>

@@ -30,7 +30,7 @@
       <code><img title=".NET Framework" height="35" src="./icons/.net.svg"></code>
       <code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
       <code><img title="TypeScript" height="35" src="./icons/ts.svg"></code>
-      <code><img title="ReactJS" height="35" src="./icons/react.svg"></code>
+      <code><img title="Golang" height="35" src="./icons/go-gopher-svgrepo-com.svg"></code>
       <code><img title="Angular" height="35" src="./icons/angular.svg"></code>
       <code><img title="Python" height="35" src="./icons/python.svg"></code>
       <code><img title="NodeJS" height="35" src="./icons/node_js.svg"></code>

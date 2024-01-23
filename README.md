@@ -29,7 +29,7 @@
       <code><img title="C# Programming" height="35" src="./icons/c_sharp.svg"></code>
       <code><img title=".NET Framework" height="35" src="./icons/.net.svg"></code>
       <code><img title="TypeScript" height="35" src="./icons/ts.svg"></code>
-      <code><img title="Rust" height="35" src="./icons/rust.svg"></code>
+      <code><img title="Rust" height="35" src="./icons/Original_Ferris.svg"></code>
       <code><img title="Golang" height="35" src="./icons/go-gopher-svgrepo-com.svg"></code>
       <code><img title="Angular" height="35" src="./icons/angular.svg"></code>
       <code><img title="Python" height="35" src="./icons/python.svg"></code>

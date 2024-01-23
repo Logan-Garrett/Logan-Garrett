@@ -28,8 +28,8 @@
       <code><img title="C++ Programming" height="35" src="./icons/c++.svg"></code>
       <code><img title="C# Programming" height="35" src="./icons/c_sharp.svg"></code>
       <code><img title=".NET Framework" height="35" src="./icons/.net.svg"></code>
-      <code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
       <code><img title="TypeScript" height="35" src="./icons/ts.svg"></code>
+      <code><img title="Rust" height="35" src="./icons/rust.svg"></code>
       <code><img title="Golang" height="35" src="./icons/go-gopher-svgrepo-com.svg"></code>
       <code><img title="Angular" height="35" src="./icons/angular.svg"></code>
       <code><img title="Python" height="35" src="./icons/python.svg"></code>
@@ -41,7 +41,7 @@
       <code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
       <code><img title="Git" height="35" src="./icons/git.svg"></code>
       <code><img title="Vim" height="35" src="./icons/vim.svg"></code>
-      <code><img title="Powershell" height="35" src="./icons/powershell.svg"></code>
+      <code><img title="Powershell" height="35" src="./icons/PowerShell.svg"></code>
       <code><img title="Microsoft Azure DevOps" height="35" src="./icons/azure-devops.svg"></code>
       <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
     </p>

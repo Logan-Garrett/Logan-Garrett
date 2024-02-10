@@ -50,7 +50,7 @@
   ### My Github Stats
   -----------------
   <p align="center">
-    <img src="https://readme-stats-cwvn.vercel.app/api?username=Logan-Garrett&custom_title=Logan-Garrett+-+Logan+Garrett&border_color=53F6F7&show_icons=true&count_private=true&theme=react">
+    <img src="https://readme-stats-cwvn.vercel.app/api?username=Logan-Garrett&custom_title=+Logan+Garrett&border_color=53F6F7&show_icons=true&count_private=true&theme=react">
   </p>
   <p align="center">
     <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=Logan-Garrett&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=react&border_color=53F6F7"/>

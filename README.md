@@ -9,14 +9,10 @@
   <h1>
     Welcome to my Github page!
   </h1>
-  <div align="center">
-    <br />
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
-  </div>
 
-  ### About Me - Coding Wizard <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  ### About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-  :zap: In my free time, I work on personal projects and watch ThePrimeAgen and Theo. 
+  :zap: In my free time, I work on personal projects and watch ThePrimeagen. 
   
   ---
   
@@ -46,3 +42,13 @@
       <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
     </p>
   </div>
+
+---
+### My Github Stats
+
+  <p align="center">
+    <img src="https://readme-stats-cwvn.vercel.app/api?username=Logan-Garrett&custom_title=Logan-Garrett&border_color=53F6F7&show_icons=true&count_private=true&theme=react">
+  </p>
+  <p align="center">
+    <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=Logan-Garrett&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=react&border_color=53F6F7"/>
+  </p>

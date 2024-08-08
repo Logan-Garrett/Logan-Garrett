@@ -12,7 +12,7 @@
 
   ### About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-  :zap: In my free time, I work on personal projects and watch ThePrimeagen. 
+  :zap: In my free time, I work on personal projects and watch ThePrimeagen on Twitch. 
   
   ---
   

@@ -12,36 +12,7 @@
 
   ### About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-  :zap: In my free time, I work on personal projects and watch ThePrimeagen on Twitch. 
-  
-  ---
-  
-  <div>
-   <h1 align="center"> Languages | Frameworks | Tools </h1>
-    <br />
-     <p align="center">
-      <code><img title="C Programming" height="35" src="./icons/c.svg"></code>
-      <code><img title="C++ Programming" height="35" src="./icons/c++.svg"></code>
-      <code><img title="C# Programming" height="35" src="./icons/c_sharp.svg"></code>
-      <code><img title=".NET Framework" height="35" src="./icons/.net.svg"></code>
-      <code><img title="TypeScript" height="35" src="./icons/ts.svg"></code>
-      <code><img title="Rust" height="35" src="./icons/Original_Ferris.svg"></code>
-      <code><img title="Golang" height="35" src="./icons/go-gopher-svgrepo-com.svg"></code>
-      <code><img title="Angular" height="35" src="./icons/angular.svg"></code>
-      <code><img title="Python" height="35" src="./icons/python.svg"></code>
-      <code><img title="NodeJS" height="35" src="./icons/node_js.svg"></code>
-     <p align="center">
-      <code><img title="CSS" height="35" src="./icons/css.svg"></code>
-      <code><img title="BootStrap" height="35" src="./icons/bootstrap.svg"></code>
-      <code><img title="SQL Server" height="35" src="./icons/sql.svg"></code>
-      <code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
-      <code><img title="Git" height="35" src="./icons/git.svg"></code>
-      <code><img title="Vim" height="35" src="./icons/vim.svg"></code>
-      <code><img title="Powershell" height="35" src="./icons/PowerShell.svg"></code>
-      <code><img title="Microsoft Azure DevOps" height="35" src="./icons/azure-devops.svg"></code>
-      <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
-    </p>
-  </div>
+  :zap: In my free time I work on personal projects which never actually make it here... 
 
 ---
 ### My Github Stats
